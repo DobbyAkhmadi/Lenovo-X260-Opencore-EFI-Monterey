@@ -1,5 +1,7 @@
 # Lenovo-X260-Opencore-EFI-Monterey
 
+<td><img src="https://github.com/DobbyAkhmadi/Lenovo-X260-Opencore-EFI-Monterey/blob/main/Art/MySpesification.png" width="50%"></img> </td>
+
 This is the fully detailed guide on how to create a working Hackintosh machine using:
 
 * MacOS Monterey 12.1
