@@ -1,0 +1,1 @@
+# Lenovo-X260-Opencore-EFI-Monterey
