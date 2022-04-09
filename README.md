@@ -1,6 +1,6 @@
 # Lenovo-X260-Opencore-EFI-Monterey
 
-<td><img src="https://github.com/DobbyAkhmadi/Lenovo-X260-Opencore-EFI-Monterey/blob/main/Art/MySpesification.png" width="50%"></img> </td>
+
 
 This is the fully detailed guide on how to create a working Hackintosh machine using:
 
@@ -14,6 +14,8 @@ This is the fully detailed guide on how to create a working Hackintosh machine u
 This repository contains also `EFI` folder with all binaries produced meanwhile. The missing pieces might be however serial numbers or other hardware identifiers.
 
 All parts of the PC work great. What is not working here is caused only by lack of proper hardware.
+
+<td><img src="https://github.com/DobbyAkhmadi/Lenovo-X260-Opencore-EFI-Monterey/blob/main/Art/MySpesification.png" width="50%"></img> </td>
 
 # Working
 
