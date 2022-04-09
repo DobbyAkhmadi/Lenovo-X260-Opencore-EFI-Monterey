@@ -35,3 +35,8 @@ List of needed tools:
 1. [SSDTTime](https://github.com/corpnewt/SSDTTime) - generator of ACPI tables on destination hardware
 1. [USBMap](https://github.com/corpnewt/USBMap) - generator of dedicated USB port mapping kernel extension
 1. [HackingTool by Headkaze](https://github.com/headkaze/Hackintool) - to verify settings on running macOS are fine; wasn't always working fine if `EFI` configuration had error on target machine
+
+
+for more details you can check to official opencore
+
+1. [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) - Opencore Official Website
